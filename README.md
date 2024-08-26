@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayman</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate blockchain and frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayman100&label=Profile%20views&color=0e75b6&style=flat" alt="jayman100" /> </p>
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaymandev" target="blank"><img src="https://img.shields.io/twitter/follow/jaymandev?logo=twitter&style=for-the-badge" alt="jaymandev" /></a> </p>
 
-- 🔭 I’m currently working on **Apartii**
-
-- 🌱 I’m currently learning **N**
+- 🔭 I’m currently working on something that will help the world!
 
 - 💬 Ask me about **react js, Next js, solidity, javascript, tailwind, css, styled components,shad cn ui,HTML**
 
